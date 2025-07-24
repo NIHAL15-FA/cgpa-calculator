@@ -4,7 +4,7 @@ A simple C++ console-based project that allows students to calculate their **GPA
 
 ---
 
-## Features
+# Features
 
 - Take student data (name, ID, number of courses)
 - Input course names, grades, and credit hours
@@ -14,7 +14,7 @@ A simple C++ console-based project that allows students to calculate their **GPA
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - C++
 - File Handling
@@ -22,7 +22,7 @@ A simple C++ console-based project that allows students to calculate their **GPA
 
 ---
 
-## 📦 How to Run
+# How to Run
 
 1. Clone the repository:
    ```bash
